@@ -8,7 +8,7 @@
 AliShahpurwala/AliShahpurwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishahpurwala&count_private=true&show_icons=true)]
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishahpurwala&count_private=true&show_icons=true)
 
 <a href="https://www.linkedin.com/in/alishahpurwala/">
   <img align="left" alt="Ali's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
