@@ -8,3 +8,6 @@
 AliShahpurwala/AliShahpurwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://www.linkedin.com/in/alishahpurwala/">
+  <img align="left" alt="Ali's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
